@@ -9,3 +9,7 @@ me is this
 this is my repo
 
 this is github
+
+adding random shi
+
+cuz idk anything lol
